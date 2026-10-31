@@ -1,0 +1,5 @@
+order_id,customer_name,city,product_name,quantity,price,status,total_amount
+1001,Ravi,Hyderabad,Laptop,2,50000,Delivered,100000
+1002,Priya,Chennai,Mobile,3,20000,Pending,60000
+1004,Kiran,Bangalore,Keyboard,5,1000,Shipped,5000
+1005,Chandana,Hyderabad,Mobile,2,20000,Delivered,40000
